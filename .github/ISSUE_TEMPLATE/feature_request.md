@@ -8,13 +8,13 @@ assignees: treoden
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Sometimes, when navigating through the checkout process, it's confusing to change the quantity of items in the cart. Users have to manually input the quantity; it would be more intuitive to have +/- buttons for adjusting the quantity.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+I'd like to see the addition of +/- buttons next to the quantity field in the shopping cart. Clicking '+' should increase the quantity by one, and '-' should decrease it accordingly.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+An alternative could be implementing a drag-and-drop feature for adjusting quantities. However, this might be more complex to implement and could potentially confuse users who are accustomed to standard input methods.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+This feature enhancement would improve the user experience during the checkout process, making it more user-friendly and intuitive. It aligns with the current industry standard in e-commerce platforms.
