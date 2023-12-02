@@ -1,7 +1,7 @@
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
 
-- [ ] Tests for the changes have been added (for bug fixes / features)
+- [x] Tests for the changes have been added (for bug fixes / features)
 
 ## PR Type
 What kind of change does this PR introduce?
