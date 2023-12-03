@@ -1,19 +1,26 @@
-node_modules
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore distribution files
 ./dist
+
+# Ignore specific directories
 /extensions/*
-themes
+themes/
 .idea/*
-.evershop
-.vscode
+.evershop/
+.vscode/
+/public/
+/media/
+coverage/
+cypress/
+/config/
+
+# Ignore specific files
 npm-debug.log
-/package-log.json
-/media
-/public
+/package-lock.json
 .DS_Store
 .log
-coverage
-cypress
-/config
 .prettierignore
 .prettierrc
 mysqlToPostgres.js
